@@ -1,4 +1,5 @@
-#Leonardo Hermann e Maria Urbano
+#Leonardo Hermann - Código
+#Maria Urbano - Parte escrita
 
 from abc import ABC, abstractmethod
 
